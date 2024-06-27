@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://mayank1405.github.io/blog/
 
 ## My process
 First I set the bg color to yellow. Then I created a white box inside which I put all the elements. After this I customized the elements according to my preferences
