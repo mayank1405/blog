@@ -1,0 +1,94 @@
+body{
+  background-color: hsl(47, 88%, 63%);
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+@font-face {
+  
+  src: url(fonts/Figtree-VariableFont_wght.ttf);
+  font-family: Figtree ;
+}
+.whitebox{
+  box-shadow: 7px 7px 4px;
+  height: 57vh;
+  width: 42.5vh;
+  background-color: white;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.img{
+  transform: scale(0.9,0.88);
+  border-radius: 20px;
+  position: relative;
+  top: 15px;
+}
+.rest{
+  margin-top: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  margin-left: 20px;
+}
+#greg{
+  float: left;
+  transform: scale(0.45);
+  position: relative;
+  
+  right: 15px;
+}
+.imgtext{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.l{
+  
+  background-color: hsl(47, 88%, 63%);
+  font-size: 0.7em;
+  font-family: Figtree;
+  font-weight: 800;
+  width: 52px;
+  padding: 6.5px;
+  border-radius: 7px;
+  
+}
+.p{
+  font-size: 0.7em;
+  font-family: Figtree;
+  font-weight: 500;
+  margin-top: 0px;
+}
+.head{
+  font-size: 1.1em;
+  font-family: Figtree;
+  font-weight: 1000;
+  margin-top: 7.5px;
+  margin-bottom: 10px;
+
+}
+.head:hover{
+  color:hsl(47, 88%, 63%) ;
+  cursor: pointer;
+
+}
+#parag{
+  font-family: Figtree;
+  font-size: 0.85em;
+  color:hsl(0, 0%, 50%);
+
+  margin-top:5px;
+}
+.para{
+  font-family: Figtree;
+  font-size: 0.7em;
+  font-weight: 1000;
+  position: relative;
+  right: 25px;
+}
